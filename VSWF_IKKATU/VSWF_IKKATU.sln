@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "H:\...\IKKATU\", "IKKATU", "{503B232E-50D0-4529-A49A-B9CC31D99EB7}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/IKKATU"
+		Debug.AspNetCompiler.PhysicalPath = "IKKATU\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\IKKATU\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/IKKATU"
+		Release.AspNetCompiler.PhysicalPath = "IKKATU\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\IKKATU\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "10999"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503B232E-50D0-4529-A49A-B9CC31D99EB7}.Debug|.NET.ActiveCfg = Debug|.NET
+		{503B232E-50D0-4529-A49A-B9CC31D99EB7}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
